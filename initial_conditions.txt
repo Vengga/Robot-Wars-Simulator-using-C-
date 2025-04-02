@@ -1,0 +1,9 @@
+10 10
+10
+4 
+UltimateRobot Widd 3 6
+RoboTank Jet 3 1
+Terminator Alpha 7 8
+RoboCop Beta random random
+
+
